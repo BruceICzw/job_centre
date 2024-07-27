@@ -157,3 +157,11 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Screenshots
+
+Here are some screenshots of the Job Centre app:
+
+![Job Centre Home Screen](screenshot.png)
+
+Feel free to explore the app and let us know if you have any feedback or suggestions!
